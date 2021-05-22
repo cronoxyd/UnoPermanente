@@ -17,6 +17,3 @@ A minimalized Arduino Uno on a perfboard, intended for moving project from a bre
 | R1 | Resistor | 10kΩ 1/4W resistor | THT |
 | R2 | Resistor | 330Ω 1/4W resistor | THT |
 | S1 | Push button | Off/(On) momentary | THT |
-
-## Suggested case
-RND 455-00893
