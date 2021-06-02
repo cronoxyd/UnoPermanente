@@ -1,0 +1,1012 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='2.5876in' height='2.18465in' viewBox='0 0 186.307 157.295' >
+<g partID='148300'><g transform='translate(0.023618,0)' ><g xmlns="http://www.w3.org/2000/svg" id="board">
+ <rect xmlns="http://www.w3.org/2000/svg" y="0.288" fill="#ffffff" id="boardoutline" fill-opacity="0.5" stroke="#111111" stroke-width="0.576" width="178.007" height="155.33" x="0.288"/>
+</g>
+</g></g><g partID='148302'><g transform='translate(0.023618,0)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen0">
+ <rect xmlns="http://www.w3.org/2000/svg" y="0.288" fill="none" stroke="#000000" stroke-width="0.576" width="178.007" height="155.33" x="0.288"/>
+</g>
+</g></g><g partID='149610'><g transform='translate(22.176,131.909)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g id="copper0">
+ <rect y="4.60063" fill="none" id="square" width="4.32" stroke="rgb(255, 191, 0)" stroke-width="1.44" height="4.32" x="5.616"/>
+ <circle cx="7.776" r="2.16" cy="6.76063" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle cx="7.776" r="2.16" cy="16.6819" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='150530'><g transform='translate(0,102.268)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <rect xmlns="http://www.w3.org/2000/svg" y="12.168" fill="none" stroke="rgb(255, 191, 0)" stroke-width="1.44" width="4.464" height="4.464" x="6.408"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="8.64" r="2.232" cy="14.4" fill="none" id="connector0pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="15.84" r="2.232" cy="14.4" fill="none" id="connector1pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="23.04" r="2.232" cy="14.4" fill="none" id="connector2pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='155900'><g transform='translate(147.807,89.1873)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="2.052" cy="24.264" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="2.052" cy="24.264" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="18.288" r="2.052" cy="24.264" connectorname="3" fill="none" id="connector2pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="25.488" r="2.052" cy="24.264" connectorname="4" fill="none" id="connector3pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="32.688" r="2.052" cy="24.264" connectorname="5" fill="none" id="connector4pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="39.888" r="2.052" cy="24.264" connectorname="6" fill="none" id="connector5pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="47.088" r="2.052" cy="24.264" connectorname="7" fill="none" id="connector6pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="54.288" r="2.052" cy="24.264" connectorname="8" fill="none" id="connector7pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="61.488" r="2.052" cy="24.264" connectorname="9" fill="none" id="connector8pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="68.688" r="2.052" cy="24.264" connectorname="10" fill="none" id="connector9pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="75.888" r="2.052" cy="24.264" connectorname="11" fill="none" id="connector10pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="83.088" r="2.052" cy="24.264" connectorname="12" fill="none" id="connector11pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="90.288" r="2.052" cy="24.264" connectorname="13" fill="none" id="connector12pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="97.488" r="2.052" cy="24.264" connectorname="14" fill="none" id="connector13pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="97.488" r="2.052" cy="2.664" connectorname="15" fill="none" id="connector14pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="90.288" r="2.052" cy="2.664" connectorname="16" fill="none" id="connector15pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="83.088" r="2.052" cy="2.664" connectorname="17" fill="none" id="connector16pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="75.888" r="2.052" cy="2.664" connectorname="18" fill="none" id="connector17pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="68.688" r="2.052" cy="2.664" connectorname="19" fill="none" id="connector18pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="61.488" r="2.052" cy="2.664" connectorname="20" fill="none" id="connector19pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="54.288" r="2.052" cy="2.664" connectorname="21" fill="none" id="connector20pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="47.088" r="2.052" cy="2.664" connectorname="22" fill="none" id="connector21pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="39.888" r="2.052" cy="2.664" connectorname="23" fill="none" id="connector22pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="32.688" r="2.052" cy="2.664" connectorname="24" fill="none" id="connector23pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="25.488" r="2.052" cy="2.664" connectorname="25" fill="none" id="connector24pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="18.288" r="2.052" cy="2.664" connectorname="26" fill="none" id="connector25pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="2.052" cy="2.664" connectorname="27" fill="none" id="connector26pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="2.052" cy="2.664" connectorname="28" fill="none" id="connector27pad" stroke="#F7BD13" stroke-width="1.224"/>
+</g>
+</g></g></g><g partID='186600'><g transform='translate(149.997,85.2481)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="20.8462" r="1.98" cy="15.6024" fill="none" id="connector0pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="2.42064" r="1.98" cy="15.6024" fill="none" id="connector1pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="20.8462" r="1.98" cy="2.84616" fill="none" id="connector2pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="2.42064" r="1.98" cy="2.84616" fill="none" id="connector3pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='186630'><g transform='translate(141.3,54.5313)' ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper1">
+  <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+  <circle xmlns="http://www.w3.org/2000/svg" cx="2.7" r="1.98" cy="3.096" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="31.5" r="1.98" cy="3.096" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g><g partID='204960'><g transform='translate(24.84,126.388)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <rect xmlns="http://www.w3.org/2000/svg" y="5.58" fill="none" id="rect11" width="3.96" stroke-width="1.44" stroke="#ffbf00" height="3.96" x="1.98"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.96" r="1.98" cy="7.56" fill="none" id="connector0pin" stroke-width="1.44" stroke="#ffbf00"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.16" r="1.98" cy="7.56" fill="none" id="connector1pin" stroke-width="1.44" stroke="#ffbf00"/>
+</g>
+</g></g></g><g partID='213370'><g transform='translate(35.8845,42.2797)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper1">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="22.5479" r="1.84465" cy="7.08448" fill="none" id="connector1pin" stroke="#f7bd13" stroke-width="1.41732"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="8.64567" r="1.84252" cy="7.08661" fill="none" id="connector0pin" stroke="#f7bd13" stroke-width="1.41732"/>
+ </g>
+</g>
+</g></g></g><g partID='214580'><g transform='translate(18.288,28.5396)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="1.66606" cy="3.888" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.34787"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="1.66606" cy="3.888" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.34787"/>
+</g>
+</g></g></g><g partID='214610'><g transform='translate(18.288,50.1396)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="1.66606" cy="3.888" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.34787"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="1.66606" cy="3.888" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.34787"/>
+</g>
+</g></g></g><g partID='219630'><g transform='translate(21.24,90.3876)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <rect xmlns="http://www.w3.org/2000/svg" y="5.58" fill="none" id="rect11" width="3.96" stroke-width="1.44" stroke="#ffbf00" height="3.96" x="1.98"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.96" r="1.98" cy="7.56" fill="none" id="connector0pin" stroke-width="1.44" stroke="#ffbf00"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.16" r="1.98" cy="7.56" fill="none" id="connector1pin" stroke-width="1.44" stroke="#ffbf00"/>
+</g>
+</g></g></g><g partID='225470'><g transform='translate(177.84,16.5876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225450'><g transform='translate(177.84,45.3876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225370'><g transform='translate(156.24,2.18758)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225350'><g transform='translate(156.24,9.38758)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225290'><g transform='translate(177.84,23.7876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225270'><g transform='translate(177.84,30.9876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225250'><g transform='translate(177.84,38.1876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225210'><g transform='translate(141.84,52.5876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225150'><g transform='translate(91.44,52.5876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225110'><g transform='translate(156.24,138.988)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225090'><g transform='translate(156.24,131.788)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225050'><g transform='translate(177.84,124.588)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225030'><g transform='translate(177.84,117.388)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225010'><g transform='translate(177.84,110.188)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='224990'><g transform='translate(177.84,102.988)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='224970'><g transform='translate(177.84,95.7876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='224950'><g transform='translate(177.84,88.5876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225490'><g transform='translate(40.104,49.5276)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper1">
+  <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+  <circle xmlns="http://www.w3.org/2000/svg" cx="2.7" r="1.98" cy="3.096" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="31.5" r="1.98" cy="3.096" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225520'><g transform='translate(37.5876,28.6612)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper1">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="8.7876" r="1.7008" cy="10.6336" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.13384"/>
+  <rect xmlns="http://www.w3.org/2000/svg" y="8.9328" fill="none" stroke="#F7BD13" stroke-width="1.13384" width="3.4016" height="3.4016" x="7.0868"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="8.7876" r="1.7008" cy="3.5464" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.13384"/>
+ </g>
+</g>
+</g></g></g><g partID='226380'><g transform='translate(38.448,49.2756)' ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="4.752" r="1.98" cy="37.152" fill="none" id="connector0pad" stroke="#f9a435" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="4.752" r="1.98" cy="4.752" fill="none" id="connector1pad" stroke="#f9a435" stroke-width="1.44"/>
+</g>
+</g></g><g partID='216780'><g transform='translate(103.694,60.5073)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper0">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper1">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="2.88" r="1.8" cy="2.88" fill="none" id="connector0pin" stroke="#f7bd13" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="10.0933" r="1.8" cy="2.88" fill="none" id="connector1pin" stroke="#f7bd13" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='193280'><line stroke-linecap='round' stroke='#f28a00' x1='143.986' y1='58.8873' x2='143.935' y2='63.4834' stroke-width='1.728' /></g><g partID='198010'><line stroke-linecap='round' stroke='#f28a00' x1='145.357' y1='64.8394' x2='151.586' y2='64.4755' stroke-width='1.728' /></g><g partID='227520'><line stroke-linecap='round' stroke='#f28a00' x1='43.2' y1='52.7676' x2='43.2' y2='48.0876' stroke-width='1.728' /></g><g partID='247310'><line stroke-linecap='round' stroke='#f28a00' x1='43.2566' y1='79.1673' x2='43.2098' y2='85.1676' stroke-width='1.728' /></g><g partID='244420'><line stroke-linecap='round' stroke='#f28a00' x1='79.1753' y1='79.2029' x2='43.2566' y2='79.1674' stroke-width='1.728' /></g><g partID='244430'><line stroke-linecap='round' stroke='#f28a00' x1='79.1304' y1='85.0836' x2='79.1752' y2='79.2031' stroke-width='1.728' /></g><g partID='244500'><line stroke-linecap='round' stroke='#f28a00' x1='35.9794' y1='86.4196' x2='30.06' y2='86.4264' stroke-width='1.728' /></g><g partID='245050'><line stroke-linecap='round' stroke='#f28a00' x1='93.608' y1='71.9864' x2='35.9791' y2='71.9864' stroke-width='1.728' /></g><g partID='244780'><line stroke-linecap='round' stroke='#f28a00' x1='35.9794' y1='71.9864' x2='35.9794' y2='86.4193' stroke-width='1.728' /></g><g partID='244510'><line stroke-linecap='round' stroke='#f28a00' x1='93.5373' y1='66.3632' x2='93.608' y2='71.9863' stroke-width='1.728' /></g><g partID='245780'><line stroke-linecap='round' stroke='#f28a00' x1='93.608' y1='64.8729' x2='94.7715' y2='64.2125' stroke-width='1.728' /></g><g partID='246250'><line stroke-linecap='round' stroke='#f28a00' x1='93.608' y1='75.5946' x2='93.608' y2='64.8729' stroke-width='1.728' /></g><g partID='246020'><line stroke-linecap='round' stroke='#f28a00' x1='100.825' y1='75.5946' x2='93.6083' y2='75.5946' stroke-width='1.728' /></g><g partID='245790'><line stroke-linecap='round' stroke='#f28a00' x1='100.733' y1='85.0836' x2='100.824' y2='75.5949' stroke-width='1.728' /></g><g partID='247020'><line stroke-linecap='round' stroke='#f28a00' x1='165.523' y1='75.6263' x2='165.587' y2='81.5677' stroke-width='1.728' /></g><g partID='246750'><line stroke-linecap='round' stroke='#f28a00' x1='100.825' y1='75.5946' x2='165.523' y2='75.6263' stroke-width='1.728' /></g><g partID='246480'><line stroke-linecap='round' stroke='#f28a00' x1='100.733' y1='85.0836' x2='100.824' y2='75.5949' stroke-width='1.728' /></g><g partID='149612'><g transform='translate(22.176,131.909)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g id="copper1">
+ <g id="copper0">
+  <rect y="4.60063" fill="none" id="square" width="4.32" stroke="rgb(255, 191, 0)" stroke-width="1.44" height="4.32" x="5.616"/>
+  <circle cx="7.776" r="2.16" cy="6.76063" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle cx="7.776" r="2.16" cy="16.6819" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='150532'><g transform='translate(0,102.268)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <rect xmlns="http://www.w3.org/2000/svg" y="12.168" fill="none" stroke="rgb(255, 191, 0)" stroke-width="1.44" width="4.464" height="4.464" x="6.408"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="8.64" r="2.232" cy="14.4" fill="none" id="connector0pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="15.84" r="2.232" cy="14.4" fill="none" id="connector1pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="23.04" r="2.232" cy="14.4" fill="none" id="connector2pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='155902'><g transform='translate(147.807,89.1873)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="2.052" cy="24.264" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="2.052" cy="24.264" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="18.288" r="2.052" cy="24.264" connectorname="3" fill="none" id="connector2pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="25.488" r="2.052" cy="24.264" connectorname="4" fill="none" id="connector3pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="32.688" r="2.052" cy="24.264" connectorname="5" fill="none" id="connector4pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="39.888" r="2.052" cy="24.264" connectorname="6" fill="none" id="connector5pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="47.088" r="2.052" cy="24.264" connectorname="7" fill="none" id="connector6pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="54.288" r="2.052" cy="24.264" connectorname="8" fill="none" id="connector7pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="61.488" r="2.052" cy="24.264" connectorname="9" fill="none" id="connector8pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="68.688" r="2.052" cy="24.264" connectorname="10" fill="none" id="connector9pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="75.888" r="2.052" cy="24.264" connectorname="11" fill="none" id="connector10pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="83.088" r="2.052" cy="24.264" connectorname="12" fill="none" id="connector11pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="90.288" r="2.052" cy="24.264" connectorname="13" fill="none" id="connector12pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="97.488" r="2.052" cy="24.264" connectorname="14" fill="none" id="connector13pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="97.488" r="2.052" cy="2.664" connectorname="15" fill="none" id="connector14pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="90.288" r="2.052" cy="2.664" connectorname="16" fill="none" id="connector15pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="83.088" r="2.052" cy="2.664" connectorname="17" fill="none" id="connector16pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="75.888" r="2.052" cy="2.664" connectorname="18" fill="none" id="connector17pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="68.688" r="2.052" cy="2.664" connectorname="19" fill="none" id="connector18pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="61.488" r="2.052" cy="2.664" connectorname="20" fill="none" id="connector19pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="54.288" r="2.052" cy="2.664" connectorname="21" fill="none" id="connector20pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="47.088" r="2.052" cy="2.664" connectorname="22" fill="none" id="connector21pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="39.888" r="2.052" cy="2.664" connectorname="23" fill="none" id="connector22pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="32.688" r="2.052" cy="2.664" connectorname="24" fill="none" id="connector23pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="25.488" r="2.052" cy="2.664" connectorname="25" fill="none" id="connector24pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="18.288" r="2.052" cy="2.664" connectorname="26" fill="none" id="connector25pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="2.052" cy="2.664" connectorname="27" fill="none" id="connector26pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="2.052" cy="2.664" connectorname="28" fill="none" id="connector27pad" stroke="#F7BD13" stroke-width="1.224"/>
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="2.052" cy="24.264" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="2.052" cy="24.264" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="18.288" r="2.052" cy="24.264" connectorname="3" fill="none" id="connector2pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="25.488" r="2.052" cy="24.264" connectorname="4" fill="none" id="connector3pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="32.688" r="2.052" cy="24.264" connectorname="5" fill="none" id="connector4pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="39.888" r="2.052" cy="24.264" connectorname="6" fill="none" id="connector5pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="47.088" r="2.052" cy="24.264" connectorname="7" fill="none" id="connector6pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="54.288" r="2.052" cy="24.264" connectorname="8" fill="none" id="connector7pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="61.488" r="2.052" cy="24.264" connectorname="9" fill="none" id="connector8pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="68.688" r="2.052" cy="24.264" connectorname="10" fill="none" id="connector9pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="75.888" r="2.052" cy="24.264" connectorname="11" fill="none" id="connector10pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="83.088" r="2.052" cy="24.264" connectorname="12" fill="none" id="connector11pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="90.288" r="2.052" cy="24.264" connectorname="13" fill="none" id="connector12pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="97.488" r="2.052" cy="24.264" connectorname="14" fill="none" id="connector13pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="97.488" r="2.052" cy="2.664" connectorname="15" fill="none" id="connector14pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="90.288" r="2.052" cy="2.664" connectorname="16" fill="none" id="connector15pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="83.088" r="2.052" cy="2.664" connectorname="17" fill="none" id="connector16pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="75.888" r="2.052" cy="2.664" connectorname="18" fill="none" id="connector17pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="68.688" r="2.052" cy="2.664" connectorname="19" fill="none" id="connector18pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="61.488" r="2.052" cy="2.664" connectorname="20" fill="none" id="connector19pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="54.288" r="2.052" cy="2.664" connectorname="21" fill="none" id="connector20pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="47.088" r="2.052" cy="2.664" connectorname="22" fill="none" id="connector21pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="39.888" r="2.052" cy="2.664" connectorname="23" fill="none" id="connector22pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="32.688" r="2.052" cy="2.664" connectorname="24" fill="none" id="connector23pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="25.488" r="2.052" cy="2.664" connectorname="25" fill="none" id="connector24pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="18.288" r="2.052" cy="2.664" connectorname="26" fill="none" id="connector25pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="2.052" cy="2.664" connectorname="27" fill="none" id="connector26pad" stroke="#F7BD13" stroke-width="1.224"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="2.052" cy="2.664" connectorname="28" fill="none" id="connector27pad" stroke="#F7BD13" stroke-width="1.224"/>
+ </g>
+</g>
+</g></g></g><g partID='186602'><g transform='translate(149.997,85.2481)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="20.8462" r="1.98" cy="15.6024" fill="none" id="connector0pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="2.42064" r="1.98" cy="15.6024" fill="none" id="connector1pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="20.8462" r="1.98" cy="2.84616" fill="none" id="connector2pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="2.42064" r="1.98" cy="2.84616" fill="none" id="connector3pad" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='186632'><g transform='translate(141.3,54.5313)' ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+ <circle xmlns="http://www.w3.org/2000/svg" cx="2.7" r="1.98" cy="3.096" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="31.5" r="1.98" cy="3.096" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g><g partID='204962'><g transform='translate(24.84,126.388)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <rect xmlns="http://www.w3.org/2000/svg" y="5.58" fill="none" id="rect11" width="3.96" stroke-width="1.44" stroke="#ffbf00" height="3.96" x="1.98"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="3.96" r="1.98" cy="7.56" fill="none" id="connector0pin" stroke-width="1.44" stroke="#ffbf00"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="11.16" r="1.98" cy="7.56" fill="none" id="connector1pin" stroke-width="1.44" stroke="#ffbf00"/>
+ </g>
+</g>
+</g></g></g><g partID='213372'><g transform='translate(35.8845,42.2797)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="22.5479" r="1.84465" cy="7.08448" fill="none" id="connector1pin" stroke="#f7bd13" stroke-width="1.41732"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="8.64567" r="1.84252" cy="7.08661" fill="none" id="connector0pin" stroke="#f7bd13" stroke-width="1.41732"/>
+</g>
+</g></g></g><g partID='214582'><g transform='translate(18.288,28.5396)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="1.66606" cy="3.888" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.34787"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="1.66606" cy="3.888" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.34787"/>
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="1.66606" cy="3.888" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.34787"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="1.66606" cy="3.888" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.34787"/>
+ </g>
+</g>
+</g></g></g><g partID='214612'><g transform='translate(18.288,50.1396)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="1.66606" cy="3.888" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.34787"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="1.66606" cy="3.888" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.34787"/>
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="3.888" r="1.66606" cy="3.888" connectorname="1" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.34787"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="11.088" r="1.66606" cy="3.888" connectorname="2" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.34787"/>
+ </g>
+</g>
+</g></g></g><g partID='219632'><g transform='translate(21.24,90.3876)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <rect xmlns="http://www.w3.org/2000/svg" y="5.58" fill="none" id="rect11" width="3.96" stroke-width="1.44" stroke="#ffbf00" height="3.96" x="1.98"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="3.96" r="1.98" cy="7.56" fill="none" id="connector0pin" stroke-width="1.44" stroke="#ffbf00"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="11.16" r="1.98" cy="7.56" fill="none" id="connector1pin" stroke-width="1.44" stroke="#ffbf00"/>
+ </g>
+</g>
+</g></g></g><g partID='225472'><g transform='translate(177.84,16.5876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225452'><g transform='translate(177.84,45.3876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225372'><g transform='translate(156.24,2.18758)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225352'><g transform='translate(156.24,9.38758)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225292'><g transform='translate(177.84,23.7876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225272'><g transform='translate(177.84,30.9876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225252'><g transform='translate(177.84,38.1876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225212'><g transform='translate(141.84,52.5876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225152'><g transform='translate(91.44,52.5876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225112'><g transform='translate(156.24,138.988)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225092'><g transform='translate(156.24,131.788)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225052'><g transform='translate(177.84,124.588)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225032'><g transform='translate(177.84,117.388)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225012'><g transform='translate(177.84,110.188)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='224992'><g transform='translate(177.84,102.988)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='224972'><g transform='translate(177.84,95.7876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='224952'><g transform='translate(177.84,88.5876)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <g xmlns="http://www.w3.org/2000/svg" id="copper0">
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="5.04" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="12.24" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="19.44" fill="none" id="connector2pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="26.64" fill="none" id="connector3pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="33.84" fill="none" id="connector4pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="41.04" fill="none" id="connector5pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="48.24" fill="none" id="connector6pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="55.44" fill="none" id="connector7pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="62.64" fill="none" id="connector8pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="69.84" fill="none" id="connector9pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="77.04" fill="none" id="connector10pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="84.24" fill="none" id="connector11pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="91.44" fill="none" id="connector12pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="98.64" fill="none" id="connector13pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="105.84" fill="none" id="connector14pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="113.04" fill="none" id="connector15pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="120.24" fill="none" id="connector16pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+  <circle xmlns="http://www.w3.org/2000/svg" cx="5.04" r="2.088" cy="127.44" fill="none" id="connector17pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ </g>
+</g>
+</g></g></g><g partID='225492'><g transform='translate(40.104,49.5276)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+ <circle xmlns="http://www.w3.org/2000/svg" cx="2.7" r="1.98" cy="3.096" fill="none" id="connector0pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="31.5" r="1.98" cy="3.096" fill="none" id="connector1pin" stroke="rgb(255, 191, 0)" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='225522'><g transform='translate(37.5876,28.6612)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="8.7876" r="1.7008" cy="10.6336" fill="none" id="connector1pad" stroke="#F7BD13" stroke-width="1.13384"/>
+ <rect xmlns="http://www.w3.org/2000/svg" y="8.9328" fill="none" stroke="#F7BD13" stroke-width="1.13384" width="3.4016" height="3.4016" x="7.0868"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="8.7876" r="1.7008" cy="3.5464" fill="none" id="connector0pad" stroke="#F7BD13" stroke-width="1.13384"/>
+</g>
+</g></g></g><g partID='226382'><g transform='translate(38.448,49.2756)' ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="4.752" r="1.98" cy="37.152" fill="none" id="connector0pad" stroke="#fdde68" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="4.752" r="1.98" cy="4.752" fill="none" id="connector1pad" stroke="#fdde68" stroke-width="1.44"/>
+</g>
+</g></g><g partID='216782'><g transform='translate(103.694,60.5073)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="copper1">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="2.88" r="1.8" cy="2.88" fill="none" id="connector0pin" stroke="#f7bd13" stroke-width="1.44"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cx="10.0933" r="1.8" cy="2.88" fill="none" id="connector1pin" stroke="#f7bd13" stroke-width="1.44"/>
+</g>
+</g></g></g><g partID='219410'><line stroke-linecap='round' stroke='#f2c600' x1='32.4' y1='125.149' x2='15.84' y2='125.149' stroke-width='1.728' /></g><g partID='208580'><line stroke-linecap='round' stroke='#f2c600' x1='100.738' y1='63.4835' x2='100.799' y2='58.7072' stroke-width='1.728' /></g><g partID='205310'><line stroke-linecap='round' stroke='#f2c600' x1='32.3862' y1='93.6212' x2='15.912' y2='93.6273' stroke-width='1.728' /></g><g partID='205200'><line stroke-linecap='round' stroke='#f2c600' x1='32.3992' y1='113.968' x2='32.3863' y2='93.6209' stroke-width='1.728' /></g><g partID='204990'><line stroke-linecap='round' stroke='#f2c600' x1='32.4' y1='123.688' x2='32.4' y2='125.149' stroke-width='1.728' /></g><g partID='210600'><line stroke-linecap='round' stroke='#f2c600' x1='87.7592' y1='86.5236' x2='92.0792' y2='86.5236' stroke-width='1.728' /></g><g partID='208730'><line stroke-linecap='round' stroke='#f2c600' x1='93.5881' y1='58.7073' x2='93.5353' y2='63.4834' stroke-width='1.728' /></g><g partID='222090'><line stroke-linecap='round' stroke='#f2c600' x1='43.2312' y1='64.8001' x2='43.2312' y2='72.0795' stroke-width='1.728' /></g><g partID='221790'><line stroke-linecap='round' stroke='#f2c600' x1='14.4' y1='64.8276' x2='14.4' y2='62.2197' stroke-width='1.728' /></g><g partID='218630'><line stroke-linecap='round' stroke='#f2c600' x1='27.664' y1='64.8276' x2='14.4' y2='64.8276' stroke-width='1.728' /></g><g partID='218560'><line stroke-linecap='round' stroke='#f2c600' x1='39.6658' y1='75.645' x2='86.3889' y2='75.5831' stroke-width='1.728' /></g><g partID='218490'><line stroke-linecap='round' stroke='#f2c600' x1='86.3888' y1='75.5831' x2='86.3288' y2='66.3633' stroke-width='1.728' /></g><g partID='218420'><line stroke-linecap='round' stroke='#f2c600' x1='29.6051' y1='65.6291' x2='39.6658' y2='75.645' stroke-width='1.728' /></g><g partID='218280'><line stroke-linecap='round' stroke='#f2c600' x1='43.2312' y1='72.0796' x2='79.202' y2='72.0475' stroke-width='1.728' /></g><g partID='218210'><line stroke-linecap='round' stroke='#f2c600' x1='79.202' y1='72.0475' x2='79.1361' y2='66.3632' stroke-width='1.728' /></g><g partID='218140'><line stroke-linecap='round' stroke='#f2c600' x1='29.6153' y1='51.7112' x2='43.2312' y2='64.8001' stroke-width='1.728' /></g><g partID='221900'><line stroke-linecap='round' stroke='#f2c600' x1='28.8208' y1='46.8242' x2='14.4104' y2='46.8242' stroke-width='1.728' /></g><g partID='221680'><line stroke-linecap='round' stroke='#f2c600' x1='14.4104' y1='46.8242' x2='14.4014' y2='40.6197' stroke-width='1.728' /></g><g partID='221410'><line stroke-linecap='round' stroke='#f2c600' x1='100.873' y1='72.0796' x2='100.75' y2='66.363' stroke-width='1.728' /></g><g partID='221140'><line stroke-linecap='round' stroke='#f2c600' x1='172.776' y1='72.0796' x2='100.873' y2='72.0796' stroke-width='1.728' /></g><g partID='220870'><line stroke-linecap='round' stroke='#f2c600' x1='172.798' y1='58.8873' x2='172.776' y2='72.0796' stroke-width='1.728' /></g><g partID='220640'><line stroke-linecap='round' stroke='#f2c600' x1='100.873' y1='79.2105' x2='100.735' y2='66.3633' stroke-width='1.728' /></g><g partID='220410'><line stroke-linecap='round' stroke='#f2c600' x1='93.5936' y1='79.2105' x2='100.873' y2='79.2105' stroke-width='1.728' /></g><g partID='220180'><line stroke-linecap='round' stroke='#f2c600' x1='93.5337' y1='85.0837' x2='93.5931' y2='79.2107' stroke-width='1.728' /></g><g partID='220030'><line stroke-linecap='round' stroke='#f2c600' x1='93.5936' y1='79.2105' x2='30.0603' y2='79.2272' stroke-width='1.728' /></g><g partID='219880'><line stroke-linecap='round' stroke='#f2c600' x1='93.5337' y1='85.0837' x2='93.5931' y2='79.2107' stroke-width='1.728' /></g><g partID='219730'><line stroke-linecap='round' stroke='#f2c600' x1='27.54' y1='86.4276' x2='15.912' y2='86.4276' stroke-width='1.728' /></g><g partID='219660'><line stroke-linecap='round' stroke='#f2c600' x1='27.54' y1='79.2276' x2='15.912' y2='79.2276' stroke-width='1.728' /></g><g partID='219520'><line stroke-linecap='round' stroke='#f2c600' x1='31.14' y1='115.228' x2='15.84' y2='115.228' stroke-width='1.728' /></g><g partID='219300'><line stroke-linecap='round' stroke='#f2c600' x1='3.56546' y1='32.4138' x2='13.4079' y2='32.4263' stroke-width='1.728' /></g><g partID='219190'><line stroke-linecap='round' stroke='#f2c600' x1='3.61111' y1='86.4164' x2='3.56546' y2='32.4137' stroke-width='1.728' /></g><g partID='219080'><line stroke-linecap='round' stroke='#f2c600' x1='12.888' y1='86.426' x2='3.61112' y2='86.4165' stroke-width='1.728' /></g><g partID='219010'><line stroke-linecap='round' stroke='#f2c600' x1='3.56546' y1='53.9552' x2='13.4079' y2='54.021' stroke-width='1.728' /></g><g partID='218940'><line stroke-linecap='round' stroke='#f2c600' x1='3.61111' y1='86.4164' x2='3.56546' y2='53.9551' stroke-width='1.728' /></g><g partID='218870'><line stroke-linecap='round' stroke='#f2c600' x1='12.888' y1='86.426' x2='3.61112' y2='86.4165' stroke-width='1.728' /></g><g partID='218760'><line stroke-linecap='round' stroke='#f2c600' x1='28.8042' y1='49.7916' x2='28.8208' y2='46.8243' stroke-width='1.728' /></g><g partID='225970'><line stroke-linecap='round' stroke='#f2c600' x1='28.8255' y1='32.5019' x2='28.8039' y2='26.2486' stroke-width='1.728' /></g><g partID='225620'><line stroke-linecap='round' stroke='#f2c600' x1='15.3921' y1='32.4327' x2='28.8255' y2='32.5019' stroke-width='1.728' /></g><g partID='225550'><line stroke-linecap='round' stroke='#f2c600' x1='41.94' y1='18.0276' x2='29.9339' y2='18.0276' stroke-width='1.728' /></g><g partID='148301'><g transform='translate(0.023618,0)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <rect xmlns="http://www.w3.org/2000/svg" y="0.288" fill="none" stroke="#000000" stroke-width="0.576" width="178.007" height="155.33" x="0.288"/>
+</g>
+</g></g><g partID='149611'><g transform='translate(22.176,131.909)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g id="silkscreen">
+ <line y2="22.0026" x2="1.44" x1="1.44" y1="1.44" id="vertical-left" stroke="white" stroke-width="0.72"/>
+ <line y2="22.0026" x2="16.992" x1="1.44" y1="22.0026" id="bottom" stroke="white" stroke-width="0.72"/>
+ <line y2="1.44" x2="16.992" x1="16.992" y1="22.0026" id="vertical-right" stroke="white" stroke-width="0.72"/>
+ <line y2="1.44" x2="1.44" x1="16.992" y1="1.44" id="top" stroke="white" stroke-width="0.72"/>
+ <line y2="1.44" x2="14.112" x1="14.112" y1="22.0026" id="mid-vertical" stroke="white" stroke-width="0.36"/>
+</g>
+</g></g></g><g partID='150531'><g transform='translate(0,102.268)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.76" x2="30.24" x1="1.44" y1="5.76" stroke="black" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="18.72" x2="30.24" x1="30.24" y1="5.76" stroke="black" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="18.72" x2="1.44" x1="30.24" y1="18.72" stroke="black" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.76" x2="1.44" x1="1.44" y1="18.72" stroke="black" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.76" x2="30.24" x1="1.44" y1="5.76" stroke="black" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="10.08" x2="30.24" x1="30.24" y1="5.76" stroke="black" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="10.08" x2="1.44" x1="30.24" y1="10.08" stroke="black" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.76" x2="1.44" x1="1.44" y1="10.08" stroke="black" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="10.08" x2="10.8" x1="10.8" y1="5.76" stroke="black" stroke-width="0.36"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="10.08" x2="20.88" x1="20.88" y1="5.76" stroke="black" stroke-width="0.36"/>
+</g>
+</g></g></g><g partID='155901'><g transform='translate(147.807,89.1873)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y2="22.104" x2="0.288" class="other" x1="0.288" y1="17.064" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="M0.288,17.064A3.6,3.6,0,1,0,0.288,9.864" class="other" fill="none" stroke-width="0.576" stroke="#f0f0f0"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="4.824" x2="101.088" class="other" x1="101.088" y1="22.104" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="9.864" x2="0.288" class="other" x1="0.288" y1="4.824" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="4.824" x2="1.008" class="other" x1="0.288" y1="4.824" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="22.104" x2="1.008" class="other" x1="0.288" y1="22.104" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="22.104" x2="100.368" class="other" x1="101.088" y1="22.104" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="4.824" x2="100.368" class="other" x1="101.088" y1="4.824" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+</g>
+</g></g></g><g partID='186601'><g transform='translate(149.997,85.2481)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y2="12.0586" x2="20.137" x1="20.137" y1="6.38928" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.72" x2="18.0115" x1="5.96376" y1="0.72" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="17.7278" x2="18.0115" x1="5.96376" y1="17.7278" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="12.0586" x2="3.12912" x1="3.12912" y1="6.38928" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="10.6416" x2="11.633" x1="11.633" y1="7.80696" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="9.22392" x2="10.2161" x1="13.0507" y1="9.22392" stroke="white" stroke-width="0.72"/>
+</g>
+</g></g></g><g partID='186631'><g transform='translate(141.3,54.5313)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y2="3.096" x2="10.584" x1="5.4" y1="3.096" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="3.096" x2="28.8" x1="24.984" y1="3.096" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.72" x2="24.984" x1="10.584" y1="0.72" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.472" x2="24.984" x1="24.984" y1="0.72" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.472" x2="10.584" x1="24.984" y1="5.472" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.72" x2="10.584" x1="10.584" y1="5.472" stroke="white" stroke-width="0.72"/>
+</g>
+</g></g><g partID='204961'><g transform='translate(24.84,126.388)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="7.56" r="7.2" cy="7.56" fill="none" id="circle7" stroke="#ffffff" stroke-width="0.72"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="m2.88,3.6,2.16,0" stroke-linecap="round" fill="none" stroke="#ffffff" stroke-width="0.792"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="m2.88,11.52,2.16,0" stroke-linecap="round" fill="none" stroke="#ffffff" stroke-width="0.792"/>
+</g>
+</g></g></g><g partID='213371'><g transform='translate(35.8845,42.2797)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <rect xmlns="http://www.w3.org/2000/svg" y="0.425197" ry="6.66142" stroke-opacity="1" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" fill="none" id="rect4181" width="30.3307" stroke-width="0.708661" stroke="#ffffff" height="13.3228" x="0.425197"/>
+ <rect xmlns="http://www.w3.org/2000/svg" y="3.9685" stroke-opacity="1" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" fill="none" id="rect4193" width="2.07874" stroke-width="0.708661" stroke="#ffffff" height="6.23622" x="14.5512"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="m17.8583,4.25197,0,5.66929" stroke-opacity="1" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" fill="none" id="path4195" stroke-width="0.708661" stroke="#ffffff"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="m13.3228,4.25197,0,5.66929" stroke-opacity="1" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" fill="none" id="path4199" stroke-width="0.708661" stroke="#ffffff"/>
+</g>
+</g></g></g><g partID='214581'><g transform='translate(18.288,28.5396)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.688" x2="7.488" class="other" x1="7.488" y1="2.088" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.288" x2="14.688" class="other" x1="0.288" y1="0.288" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="7.488" x2="14.688" class="other" x1="14.688" y1="0.288" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="7.488" x2="0.288" class="other" x1="14.688" y1="7.488" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.288" x2="0.288" class="other" x1="0.288" y1="7.488" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+</g>
+</g></g></g><g partID='214611'><g transform='translate(18.288,50.1396)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.688" x2="7.488" class="other" x1="7.488" y1="2.088" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.288" x2="14.688" class="other" x1="0.288" y1="0.288" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="7.488" x2="14.688" class="other" x1="14.688" y1="0.288" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="7.488" x2="0.288" class="other" x1="14.688" y1="7.488" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.288" x2="0.288" class="other" x1="0.288" y1="7.488" stroke-linecap="round" stroke="#f0f0f0" stroke-width="0.576"/>
+</g>
+</g></g></g><g partID='219631'><g transform='translate(21.24,90.3876)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <circle xmlns="http://www.w3.org/2000/svg" cx="7.56" r="7.2" cy="7.56" fill="none" id="circle7" stroke="#ffffff" stroke-width="0.72"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="m2.88,3.6,2.16,0" stroke-linecap="round" fill="none" stroke="#ffffff" stroke-width="0.792"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="m2.88,11.52,2.16,0" stroke-linecap="round" fill="none" stroke="#ffffff" stroke-width="0.792"/>
+</g>
+</g></g></g><g partID='225491'><g transform='translate(40.104,49.5276)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y2="3.096" x2="10.584" x1="5.4" y1="3.096" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="3.096" x2="28.8" x1="24.984" y1="3.096" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.72" x2="24.984" x1="10.584" y1="0.72" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.472" x2="24.984" x1="24.984" y1="0.72" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="5.472" x2="10.584" x1="24.984" y1="5.472" stroke="white" stroke-width="0.72"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="0.72" x2="10.584" x1="10.584" y1="5.472" stroke="white" stroke-width="0.72"/>
+</g>
+</g></g></g><g partID='225521'><g transform='translate(37.5876,28.6612)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <path xmlns="http://www.w3.org/2000/svg" d="M13.912,0.3048c3.748,2.8296,4.4912,8.1624,1.6608,11.9112c-2.8304,3.748,-8.1632,4.4912,-11.9112,1.6608S-0.8288,5.7128,2.0016,1.9656C2.4824,1.328,3.0504,0.7616,3.6904,0.2832" stroke-linecap="round" fill="none" id="path2820" stroke-linejoin="round" stroke="#FFFFFF" stroke-width="0.56696"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="M13.8896,0.2872L3.6848,0.2872" stroke-linecap="round" fill="none" id="path3707" stroke="#FFFFFF" stroke-width="0.56696"/>
+</g>
+</g></g></g><g partID='226381'><g transform='translate(38.448,49.2756)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y2="7.452" x2="4.752" x1="4.752" y1="34.452" stroke-linecap="round" stroke="#000000" stroke-width="1.512"/>
+</g>
+</g></g><g partID='247390'><g transform='translate(121.507,147.935)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" y="6.48" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" id="label" font-size="7.2" stroke-width="0" font-family="OCRA" x="32.4">v20210522</text>
+</g>
+</g></g><g partID='247360'><g transform='translate(33.1676,147.728)' ><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <text xmlns="http://www.w3.org/2000/svg" y="6.48" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-anchor="middle" fill="#000000" id="label" font-size="7.2" stroke-width="0" font-family="OCRA" x="46.8">UnoPermanente</text>
+</g>
+</g></g><g partID='247570'><g transform='translate(23.9702,130.171)' ><g transform='matrix(1,0,0,1,0,0)'  ><g  id="silkscreen">
+ <g transform="matrix(1, 0, 0, 1, -147.202, -6.98655)">
+  <g >
+   <g >
+    <path  d="M161.556,9.59591L158.357,9.59591L154.363,16.5143L152.291,16.5143L149.812,12.2213L149.812,20.0348L147.202,20.0348L147.202,6.9862L149.812,6.9862L149.812,7.00186L153.327,13.0903L156.85,6.9862L161.556,6.9862C165.158,6.9862,168.08,9.90777,168.08,13.5105C168.08,17.1132,165.16,20.0348,161.557,20.0348L158.946,20.0348L158.946,17.425L161.556,17.425C163.718,17.425,165.47,15.6726,165.47,13.5105C165.47,11.3483,163.718,9.59591,161.556,9.59591Z"/>
+   </g>
+  </g>
+ </g>
+</g>
+</g></g></g><g partID='216781'><g transform='translate(103.694,60.5073)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g  id="silkscreen">
+ <g transform="matrix(1, 0, 0, 1, -1.43333, -1.16)">
+  <path  d="m6.65907,2.30036a1.84667,1.58,0,0,1,2.51037,0.001464" stroke-opacity="1" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" fill="none" id="path2830" stroke-width="0.576" stroke="#ffffff"/>
+ </g>
+ <g transform="matrix(-1, 0, 0, -1, 14.3952, 6.92)">
+  <path  d="m6.65907,2.30036a1.84667,1.58,0,0,1,2.51037,0.001464" stroke-opacity="1" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" fill="none" id="path2830-1" stroke-width="0.576" stroke="#ffffff"/>
+ </g>
+</g>
+</g></g></g><g partID='149610' id='partLabel'><g transform='translate(3.68215,132.668)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>J1</text></g></g></g><g partID='150530' id='partLabel'><g transform='translate(13.0614,102.219)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>U1</text></g></g></g><g partID='155900' id='partLabel'><g transform='translate(35.2314,70.9595)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>IC1</text></g></g></g><g partID='186600' id='partLabel'><g transform='translate(169.303,79.729)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>S1</text></g></g></g><g partID='186630' id='partLabel'><g transform='translate(155.247,55.8907)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>R1</text></g></g></g><g partID='204960' id='partLabel'><g transform='translate(21.7083,104.868)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>C4</text></g></g></g><g partID='213370' id='partLabel'><g transform='translate(21.7594,36.481)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>XTAL1</text></g></g></g><g partID='214610' id='partLabel'><g transform='translate(10.5057,65.6185)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>C6</text></g></g></g><g partID='225520' id='partLabel'><g transform='translate(20.5725,5.67372)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>LED1</text></g></g></g><g partID='214580' id='partLabel'><g transform='translate(10.3571,23.0714)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>C5</text></g></g></g><g partID='216780' id='partLabel'><g transform='translate(93.8784,48.8357)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>C3</text></g></g></g><g partID='219630' id='partLabel'><g transform='translate(21.2281,90.8548)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>C7</text></g></g></g><g partID='225490' id='partLabel'><g transform='translate(32.6094,30.2315)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'OCRA'" id='silkscreenLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>R2</text></g></g></g><g partID='226383'><g transform='translate(38.448,49.2756)' ><g xmlns="http://www.w3.org/2000/svg" id="partimage">
+ <line xmlns="http://www.w3.org/2000/svg" y2="7.452" x2="4.752" x1="4.752" y1="34.452" stroke-linecap="round" stroke="#1b5bb3" stroke-width="2.88"/>
+ <line xmlns="http://www.w3.org/2000/svg" y2="7.452" x2="4.752" x1="4.752" y1="34.452" stroke-linecap="round" stroke="#418dd9" stroke-width="1.44"/>
+</g>
+</g></g></svg>
